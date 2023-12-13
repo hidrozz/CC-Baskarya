@@ -16,12 +16,12 @@
 To oversee and manage the implementation, maintenance, and optimization of cloud-based infrastructure and services, ensuring the efficient operation and scalability of the organization's computing resources.
 
 ## Installation
-Make a GCP Project
-Configure IAM and Admin
-Make a bucket on Cloud Storage for dataset
-Install the cloud SDK
-Create API for content
-Create API for recommendation and mockup
-Make a Flask for Cloud Run
-Build a Dockerfile
-Deploy using Cloud Run
+- Make a GCP Project
+- Configure IAM and Admin
+- Make a bucket on Cloud Storage for dataset
+- Install the cloud SDK
+- Create API for content
+- Create API for recommendation and mockup
+- Make a Flask for Cloud Run
+- Build a Dockerfile
+- Deploy using Cloud Run
